@@ -1,6 +1,6 @@
 Generalised Data Structures Library Project Name : Created self data structures.
 Technology : C++ Programming 
-Author : Prathamesh Rajesh Bawane
+## Author : Prathamesh Rajesh Bawane
 
 Project Overview
 This Project is a C++ library of generic data structures that provides object-oriented implementations of both linear and non-linear data structures. It offers ready-to-use functionalities for both fundamental and advanced operations. The library is designed using templates so that it can be reused with any data type. The implementation follows OOP principles such as encapsulation, modularity, and extensibility, making it suitable for both academic learning and real-world application development.
